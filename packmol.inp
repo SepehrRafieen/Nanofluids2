@@ -1,0 +1,10 @@
+
+# Alumina
+
+tolerance 2.0 
+filetype pdb 
+output Alumina.pdb 
+structure  Al2O3.pdb 
+number 100 
+inside box 0 0 0 120 18 96 
+end structure 
